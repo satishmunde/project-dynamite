@@ -1,0 +1,15 @@
+[
+  {
+    "id": "EMP00001",
+    "gymname":"Fitness Club Diva",
+    "gymaddress":"Diva-20 Mumbai",
+
+    "name": "Satish Munde",
+    "address": "Diva-10, Mumbai",
+    "phone": "8459896076",
+    "image": "image/profile.jpg",
+    "logo": "image/logo.png",
+    "qrcode": "image/GYM00001.jpg",
+    "designation": "GYM Co-Ordinator"
+  }
+]
