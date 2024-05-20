@@ -36,7 +36,7 @@ from rest_framework import permissions
 # Define the schema view
 schema_view = get_schema_view(
     openapi.Info(
-        title="Your API Title",
+        title="API DOUMENTATION PAGE",
         default_version="v1",
         description="Description of your API",
         terms_of_service="https://www.example.com/policies/terms/",

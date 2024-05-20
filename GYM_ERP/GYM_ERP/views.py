@@ -36,9 +36,7 @@ def login(request):
             elif user.user_type == 'staff':
                 print('this is the staff')
                 return redirect('staff_dashboard')  # Replace with the URL for software staff dashboard
-            # else:
-                # Default redirect for unknown user types
-                # return redirect('default_dashboard')  # Replace with the URL for default dashboard
+
         else:
             # Return an 'invalid login' error message
             return render(request, 'login.html', {'error_message': 'Invalid email or password'})
